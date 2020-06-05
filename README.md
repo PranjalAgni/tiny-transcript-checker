@@ -20,5 +20,5 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Live Demo
+See [Transcript Checker](https://transcript-checker.herokuapp.com/).
